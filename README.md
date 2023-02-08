@@ -17,3 +17,4 @@ Tic Tac Toe- Play classic tictactoe against computer. Built using monte carlo me
 (Run in codeskulptor 3)
 Yahtzee Strategy recommender- This program provides best strategy for a given hand of Yahtzee.( Run in codeskulptor 2 or 3)
 Zombies-Utilizes Breadth first search to help zombies locate humans and to help humans run away from zombies and avoid obstacles
+WordWrangler-Uses recursion to generate all possible strings from characters of a given string
