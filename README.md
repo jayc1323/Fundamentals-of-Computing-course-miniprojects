@@ -15,7 +15,13 @@ Tic Tac Toe- Play classic tictactoe against computer. Built using monte carlo me
 
 2048-Play 2048 game. Game logic implemented in the program. GUI was already provided.
 (Run in codeskulptor 3)
+
 Yahtzee Strategy recommender- This program provides best strategy for a given hand of Yahtzee.( Run in codeskulptor 2 or 3)
+
 Zombies-Utilizes Breadth first search to help zombies locate humans and to help humans run away from zombies and avoid obstacles
+
 WordWrangler-Uses recursion to generate all possible strings from characters of a given string
+
 TicTacToe Minimax- Uses Trees and Depth First Search to get the best move for a player for a given board
+
+TheFifteenPuzzle: Given a puzzle of any dimension- this program solves the puzzle algorithmically and return the moves done on the puzzle.Uses assertions    and invariants
